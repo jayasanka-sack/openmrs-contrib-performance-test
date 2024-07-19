@@ -61,4 +61,4 @@ jobs:
 
       - name: Push changes
         run: |
-          git push report -f
+          git push origin main:remote -f
