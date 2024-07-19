@@ -22,6 +22,8 @@ if [ -d "$report" ]; then
 
   timestamp=$(date +"%Y-%m-%d %H:%M:%S")
   git commit -m "Update report: $timestamp"
+
+  git log
 else
   echo "No directory found starting with 'testsimulation-' in target/gatling/"
 fi
