@@ -1,7 +1,5 @@
 #!/bin/bash
 set -e
-# Checkout the report branch
-git checkout report
 
 # Delete everything except the target directory
 shopt -s extglob
