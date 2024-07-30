@@ -45,6 +45,8 @@ This command will initiate the performance tests using Gatling and generate a re
 ### Simulation Presets
 
 
+
+
 | Preset       | Tier Count        | Tier Duration               | User increment per tier       | Ramp duration |
 |--------------|-------------------|-----------------------------|-------------------------------|---------------|
 | standard     | 6                 | 30 min                      | 32                            | 60 seconds    |
