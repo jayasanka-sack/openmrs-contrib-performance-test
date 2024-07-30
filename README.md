@@ -14,7 +14,7 @@ The latest report can be found at [openmrs.github.io/openmrs-contrib-performance
 
 ## Introduction
 
-This project aims to facilitate performance testing for the OpenMRS platform. By using Gatling, it provides a scalable and easy-to-use framework for simulating user load and measuring system performance.
+This project aims to facilitate performance testing for the OpenMRS platfor'm. By using Gatling, it provides a scalable and easy-to-use framework for simulating user load and measuring system performance.
 
 ## Getting Started
 
